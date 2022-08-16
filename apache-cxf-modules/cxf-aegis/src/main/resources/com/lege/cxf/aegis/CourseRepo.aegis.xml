@@ -1,0 +1,5 @@
+<mappings xmlns:ns="http://courserepo.lege.com">
+    <mapping name="ns:lege">
+        <property name="greeting" style="attribute"/>
+    </mapping>
+</mappings>
