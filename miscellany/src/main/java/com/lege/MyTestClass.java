@@ -1,6 +1,8 @@
 package com.lege;
 
 
+import java.util.ArrayList;
+
 /**
  * @author lege
  * @Description
@@ -10,7 +12,7 @@ public class MyTestClass {
     private static MyTestClass myTestClass = new MyTestClass();
 
 
-    private static int a = 0;
+    private static int a = 2;
     private static int b;
 
     private MyTestClass() {
